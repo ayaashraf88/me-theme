@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "117e4552-c137-4f5a-aedb-e6e022db8f36",
+                    "key": "710a907f-2b52-4a85-aa9b-af1306d0a3ed",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,7 +748,7 @@
                 },
                 {
                     "id": "title1",
-                    "key": "4e9000d4-4eb4-41fb-9d9f-5a1a8bf640b2",
+                    "key": "e2a45e50-c45c-48d8-8cc8-99105ae2d98d",
                     "type": "string",
                     "format": "text",
                     "label": "العنوان الاول",
@@ -761,6 +761,23 @@
                     "required": false,
                     "minLength": 6,
                     "maxLength": 30
+                },
+                {
+                    "id": "collection",
+                    "key": "a0973956-42a6-478d-8ac0-14f57b01c2e2",
+                    "type": "collection",
+                    "format": "collection",
+                    "label": "Collection",
+                    "description": "عنولن",
+                    "labelHTML": null,
+                    "item_label": null,
+                    "icon": "sicon-list-add",
+                    "fields": [],
+                    "value": [],
+                    "required": false,
+                    "minLength": 1,
+                    "maxLength": 5,
+                    "defaulted": true
                 }
             ]
         }
