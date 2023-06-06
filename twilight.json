@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "710a907f-2b52-4a85-aa9b-af1306d0a3ed",
+                    "key": "478c4403-de6d-4e43-be9a-53b7f7922af6",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,7 +748,7 @@
                 },
                 {
                     "id": "title1",
-                    "key": "e2a45e50-c45c-48d8-8cc8-99105ae2d98d",
+                    "key": "e192654e-8adb-428a-a648-c3de2f2b8600",
                     "type": "string",
                     "format": "text",
                     "label": "العنوان الاول",
@@ -764,15 +764,33 @@
                 },
                 {
                     "id": "collection",
-                    "key": "a0973956-42a6-478d-8ac0-14f57b01c2e2",
+                    "key": "a80c12c2-a5ce-41e2-a85f-8feea89b3dda",
                     "type": "collection",
                     "format": "collection",
                     "label": "Collection",
-                    "description": "عنولن",
+                    "description": "الداتا",
                     "labelHTML": null,
                     "item_label": null,
                     "icon": "sicon-list-add",
-                    "fields": [],
+                    "fields": [
+                        {
+                            "id": "string",
+                            "key": "bc7a6214-cf0b-46de-a6fd-75078ad0aa4d",
+                            "type": "string",
+                            "format": "text",
+                            "label": "String",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "العنوان الاول",
+                            "icon": "sicon-format-text-alt",
+                            "value": null,
+                            "multilanguage": false,
+                            "required": false,
+                            "minLength": 6,
+                            "maxLength": 30,
+                            "defaulted": true
+                        }
+                    ],
                     "value": [],
                     "required": false,
                     "minLength": 1,
