@@ -1,7 +1,7 @@
 {
     "name": {
-        "ar": "zz",
-        "en": "zz"
+        "ar": "mt-theme",
+        "en": "mt-theme"
     },
     "repository": "https://github.com/ayaashraf88/zz",
     "author_email": "ayaashrafahmed.97@gmail.com",
@@ -730,9 +730,9 @@
             ]
         }
     ],
-    "support_url": null,
+    "support_url": "https://salla.partners/themes/1990863337",
     "description": {
-        "ar": null,
-        "en": null
+        "ar": "mt-theme mt-theme mt-theme mt-theme mt-theme mt-theme mt-theme",
+        "en": "mt-thememt-thememt-thememt-thememt-thememt-thememt-thememt-theme"
     }
 }
