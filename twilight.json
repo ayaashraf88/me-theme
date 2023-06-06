@@ -728,6 +728,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "ee01d1d8-4402-4320-a3fc-494fd1c805db",
+            "title": "me-slider",
+            "icon": "sicon-store",
+            "path": "home.me-slider",
+            "fields": []
         }
     ],
     "support_url": "https://salla.partners/themes/1990863337",
