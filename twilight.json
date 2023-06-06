@@ -736,8 +736,8 @@
             "path": "home.me-slider",
             "fields": [
                 {
-                    "id": "collection",
-                    "key": "ddb93fef-82cd-4d14-876f-5c62e14b47a4",
+                    "id": "items",
+                    "key": "017e2924-4f80-4cae-9956-c4532edbe0c5",
                     "type": "collection",
                     "format": "collection",
                     "label": "العناصر",
@@ -748,7 +748,7 @@
                     "fields": [
                         {
                             "id": "title1",
-                            "key": "802fa806-778b-4fc8-92a8-5c442a968f82",
+                            "key": "ba0a7c9c-06c5-4056-a9b1-f2fcb099ade4",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الاول",
@@ -764,7 +764,7 @@
                         },
                         {
                             "id": "title2",
-                            "key": "58a7c8d0-ec9d-49cb-964d-cc1426b2f64b",
+                            "key": "b037f2fd-bf0d-4a74-a7eb-8ddc03f5c8b9",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الثاني",
@@ -780,7 +780,7 @@
                         },
                         {
                             "id": "title3",
-                            "key": "263cb464-9569-47f2-97e8-8374b4088951",
+                            "key": "2d579d64-aabe-44fb-a954-c4a9e1725e01",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الثالث",
@@ -796,7 +796,7 @@
                         },
                         {
                             "id": "small_image",
-                            "key": "d1408394-532b-450a-940e-c0ce75bd1df2",
+                            "key": "782629f9-2473-4f0f-919d-d0b4e1a623b9",
                             "type": "string",
                             "format": "image",
                             "label": "الصورة الصغيره",
@@ -809,7 +809,7 @@
                         },
                         {
                             "id": "big_image",
-                            "key": "1d1c8543-23b8-4b0d-863f-f199b5819654",
+                            "key": "43c9cca3-67e5-4fb1-a87d-154ff1513220",
                             "type": "string",
                             "format": "image",
                             "label": "الصورة الكبيرة",
