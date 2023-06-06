@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "6a36b60b-96ac-4cf8-82ad-e0dd9fc56795",
+                    "key": "456dddba-3ea3-4dce-8016-56e734ff7682",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,7 +748,7 @@
                 },
                 {
                     "id": "text_area",
-                    "key": "21288333-cd08-48a4-b4aa-389fccd38264",
+                    "key": "ba7f532a-7dd3-4f7f-af71-ec76802d1201",
                     "type": "string",
                     "format": "textarea",
                     "label": "Text Area",
@@ -764,7 +764,7 @@
                 },
                 {
                     "id": "aya",
-                    "key": "b4d45a9b-2235-408a-ba16-137bbf23d43a",
+                    "key": "503c85ff-9b90-48ab-afaf-5d3221d19ada",
                     "type": "string",
                     "format": "text",
                     "label": "String",
@@ -777,6 +777,23 @@
                     "required": false,
                     "minLength": 6,
                     "maxLength": 30
+                },
+                {
+                    "id": "dropdown_list",
+                    "key": "2a17e916-36ff-43c0-a8af-a7d85bd3271a",
+                    "type": "items",
+                    "format": "dropdown-list",
+                    "label": "Dropdown List",
+                    "description": "products",
+                    "labelHTML": null,
+                    "icon": "sicon-keyboard_arrow_down",
+                    "selected": [],
+                    "options": [],
+                    "source": "Products",
+                    "multichoice": true,
+                    "searchable": true,
+                    "required": false,
+                    "defaulted": true
                 }
             ]
         }
