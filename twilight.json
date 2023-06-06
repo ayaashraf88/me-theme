@@ -737,63 +737,30 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "456dddba-3ea3-4dce-8016-56e734ff7682",
+                    "key": "8de1bab7-6879-4c70-b006-1e3d44e84934",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
-                    "value": "العنوان",
+                    "value": "العنوان الاول",
                     "variant": "h1",
                     "icon": "sicon-format-text",
                     "defaulted": true
                 },
                 {
-                    "id": "text_area",
-                    "key": "ba7f532a-7dd3-4f7f-af71-ec76802d1201",
-                    "type": "string",
-                    "format": "textarea",
-                    "label": "Text Area",
-                    "description": null,
-                    "labelHTML": null,
-                    "placeholder": "Your text here",
-                    "icon": "sicon-typography",
-                    "value": "title",
-                    "multilanguage": false,
-                    "required": false,
-                    "minLength": 20,
-                    "maxLength": 255
-                },
-                {
-                    "id": "aya",
-                    "key": "503c85ff-9b90-48ab-afaf-5d3221d19ada",
+                    "id": "title1",
+                    "key": "4d8b607e-bd75-4e54-9445-d029b4dc545b",
                     "type": "string",
                     "format": "text",
                     "label": "String",
                     "description": null,
                     "labelHTML": null,
-                    "placeholder": "aya",
+                    "placeholder": "العنوان الاول",
                     "icon": "sicon-format-text-alt",
                     "value": null,
                     "multilanguage": false,
                     "required": false,
                     "minLength": 6,
                     "maxLength": 30
-                },
-                {
-                    "id": "dropdown_list",
-                    "key": "2a17e916-36ff-43c0-a8af-a7d85bd3271a",
-                    "type": "items",
-                    "format": "dropdown-list",
-                    "label": "Dropdown List",
-                    "description": "products",
-                    "labelHTML": null,
-                    "icon": "sicon-keyboard_arrow_down",
-                    "selected": [],
-                    "options": [],
-                    "source": "Products",
-                    "multichoice": true,
-                    "searchable": true,
-                    "required": false,
-                    "defaulted": true
                 }
             ]
         }
