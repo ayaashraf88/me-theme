@@ -728,6 +728,105 @@
                     ]
                 }
             ]
+        },
+        {
+            "key": "ee01d1d8-4402-4320-a3fc-494fd1c805db",
+            "title": "me-slider",
+            "icon": "sicon-store",
+            "path": "home.me-slider",
+            "fields": [
+                {
+                    "id": "collection",
+                    "key": "ddb93fef-82cd-4d14-876f-5c62e14b47a4",
+                    "type": "collection",
+                    "format": "collection",
+                    "label": "العناصر",
+                    "description": null,
+                    "labelHTML": null,
+                    "item_label": null,
+                    "icon": "sicon-list-add",
+                    "fields": [
+                        {
+                            "id": "title1",
+                            "key": "802fa806-778b-4fc8-92a8-5c442a968f82",
+                            "type": "string",
+                            "format": "text",
+                            "label": "العنوان الاول",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "العنوان الاول",
+                            "icon": "sicon-format-text-alt",
+                            "value": null,
+                            "multilanguage": false,
+                            "required": false,
+                            "minLength": 6,
+                            "maxLength": 30
+                        },
+                        {
+                            "id": "title2",
+                            "key": "58a7c8d0-ec9d-49cb-964d-cc1426b2f64b",
+                            "type": "string",
+                            "format": "text",
+                            "label": "العنوان الثاني",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "العنوان الثاني",
+                            "icon": "sicon-format-text-alt",
+                            "value": null,
+                            "multilanguage": false,
+                            "required": false,
+                            "minLength": 6,
+                            "maxLength": 30
+                        },
+                        {
+                            "id": "title3",
+                            "key": "263cb464-9569-47f2-97e8-8374b4088951",
+                            "type": "string",
+                            "format": "text",
+                            "label": "العنوان الثالث",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "العنوان الثالث",
+                            "icon": "sicon-format-text-alt",
+                            "value": null,
+                            "multilanguage": false,
+                            "required": false,
+                            "minLength": 6,
+                            "maxLength": 30
+                        },
+                        {
+                            "id": "small_image",
+                            "key": "d1408394-532b-450a-940e-c0ce75bd1df2",
+                            "type": "string",
+                            "format": "image",
+                            "label": "الصورة الصغيره",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "e.g. https://hostname.com/image.png",
+                            "icon": "sicon-image",
+                            "value": null,
+                            "required": true
+                        },
+                        {
+                            "id": "big_image",
+                            "key": "1d1c8543-23b8-4b0d-863f-f199b5819654",
+                            "type": "string",
+                            "format": "image",
+                            "label": "الصورة الكبيرة",
+                            "description": null,
+                            "labelHTML": null,
+                            "placeholder": "e.g. https://hostname.com/image.png",
+                            "icon": "sicon-image",
+                            "value": null,
+                            "required": false
+                        }
+                    ],
+                    "value": [],
+                    "required": false,
+                    "minLength": 1,
+                    "maxLength": 5
+                }
+            ]
         }
     ],
     "support_url": "https://salla.partners/themes/1990863337",
