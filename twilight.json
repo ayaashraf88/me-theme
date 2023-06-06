@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "1d5c9b54-138d-4624-bd28-1ca790365b17",
+                    "key": "a1f2aaec-49bd-4b72-b9fc-6424349c5e08",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,7 +748,7 @@
                 },
                 {
                     "id": "text_area",
-                    "key": "0b225b40-ce43-4156-a4ca-2b061e2d2d0f",
+                    "key": "7781cdfb-6b34-4a39-8388-4250a6242664",
                     "type": "string",
                     "format": "textarea",
                     "label": "Text Area",
