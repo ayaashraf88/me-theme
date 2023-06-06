@@ -1,0 +1,20 @@
+{#
+| Variable                      | Type      | Description                                                         |
+|-------------------------------|-----------|---------------------------------------------------------------------|
+| items                         | array     | shared variable in all layout, index.twig, and all components views |
+| items[].title                 | string    | Section title                                                       |
+| items[].name                  | string    | Alias for title                                                     |
+| items[].type                  | string    | category,most_sales,latest_products,chosen_products                 |
+| items[].featured_product      | Product   |                                                                     |
+| items[].special_product.id    | string    | Product string id                                                   |
+| items[].special_product.title | string    | Product Name                                                        |
+| items[].products[]            | Product[] |                                                                     |
+| items[].limit                 | Int       | Number of products to be shown                                      |
+| items[].id                    | String    | Section id                                                          |
+| postion                       | int       | Sorting number starts from zero                                     |
+| is_slider                     | Bool      | Products should be movable or static                                |
+#}
+<div>hi</div>
+        {% for section in items %}
+            <p>{{section.id}}</p>
+        {% endfor %}
