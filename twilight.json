@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "2590bc7e-fa5a-4501-ad84-659b7e667598",
+                    "key": "1d5c9b54-138d-4624-bd28-1ca790365b17",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -745,6 +745,22 @@
                     "variant": "h1",
                     "icon": "sicon-format-text",
                     "defaulted": true
+                },
+                {
+                    "id": "text_area",
+                    "key": "0b225b40-ce43-4156-a4ca-2b061e2d2d0f",
+                    "type": "string",
+                    "format": "textarea",
+                    "label": "Text Area",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "Your text here",
+                    "icon": "sicon-typography",
+                    "value": "title",
+                    "multilanguage": false,
+                    "required": false,
+                    "minLength": 20,
+                    "maxLength": 255
                 }
             ]
         }
