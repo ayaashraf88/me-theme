@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "a1f2aaec-49bd-4b72-b9fc-6424349c5e08",
+                    "key": "6a36b60b-96ac-4cf8-82ad-e0dd9fc56795",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,7 +748,7 @@
                 },
                 {
                     "id": "text_area",
-                    "key": "7781cdfb-6b34-4a39-8388-4250a6242664",
+                    "key": "21288333-cd08-48a4-b4aa-389fccd38264",
                     "type": "string",
                     "format": "textarea",
                     "label": "Text Area",
@@ -761,6 +761,22 @@
                     "required": false,
                     "minLength": 20,
                     "maxLength": 255
+                },
+                {
+                    "id": "aya",
+                    "key": "b4d45a9b-2235-408a-ba16-137bbf23d43a",
+                    "type": "string",
+                    "format": "text",
+                    "label": "String",
+                    "description": null,
+                    "labelHTML": null,
+                    "placeholder": "aya",
+                    "icon": "sicon-format-text-alt",
+                    "value": null,
+                    "multilanguage": false,
+                    "required": false,
+                    "minLength": 6,
+                    "maxLength": 30
                 }
             ]
         }
