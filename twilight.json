@@ -734,7 +734,19 @@
             "title": "me-slider",
             "icon": "sicon-store",
             "path": "home.me-slider",
-            "fields": []
+            "fields": [
+                {
+                    "id": "title",
+                    "key": "2590bc7e-fa5a-4501-ad84-659b7e667598",
+                    "type": "static",
+                    "format": "title",
+                    "label": "Title",
+                    "value": "العنوان",
+                    "variant": "h1",
+                    "icon": "sicon-format-text",
+                    "defaulted": true
+                }
+            ]
         }
     ],
     "support_url": "https://salla.partners/themes/1990863337",
