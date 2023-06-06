@@ -737,7 +737,7 @@
             "fields": [
                 {
                     "id": "title",
-                    "key": "8de1bab7-6879-4c70-b006-1e3d44e84934",
+                    "key": "117e4552-c137-4f5a-aedb-e6e022db8f36",
                     "type": "static",
                     "format": "title",
                     "label": "Title",
@@ -748,10 +748,10 @@
                 },
                 {
                     "id": "title1",
-                    "key": "4d8b607e-bd75-4e54-9445-d029b4dc545b",
+                    "key": "4e9000d4-4eb4-41fb-9d9f-5a1a8bf640b2",
                     "type": "string",
                     "format": "text",
-                    "label": "String",
+                    "label": "العنوان الاول",
                     "description": null,
                     "labelHTML": null,
                     "placeholder": "العنوان الاول",
