@@ -736,8 +736,21 @@
             "path": "home.me-slider",
             "fields": [
                 {
+                    "id": "bg_image",
+                    "key": "d3944fa0-405c-4ae8-a2bb-2182d7d70832",
+                    "type": "string",
+                    "format": "image",
+                    "label": "Image",
+                    "description": "الصورة الخلفيه",
+                    "labelHTML": null,
+                    "placeholder": "e.g. https://hostname.com/image.png",
+                    "icon": "sicon-image",
+                    "value": null,
+                    "required": false
+                },
+                {
                     "id": "items",
-                    "key": "017e2924-4f80-4cae-9956-c4532edbe0c5",
+                    "key": "5c646e66-ef2c-4299-837b-5ebb6ef9ad0b",
                     "type": "collection",
                     "format": "collection",
                     "label": "العناصر",
@@ -748,7 +761,7 @@
                     "fields": [
                         {
                             "id": "title1",
-                            "key": "ba0a7c9c-06c5-4056-a9b1-f2fcb099ade4",
+                            "key": "35f01c46-5b51-4e92-8b39-e86466e17715",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الاول",
@@ -764,7 +777,7 @@
                         },
                         {
                             "id": "title2",
-                            "key": "b037f2fd-bf0d-4a74-a7eb-8ddc03f5c8b9",
+                            "key": "cf1f7034-311b-4980-8c33-068fda277168",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الثاني",
@@ -780,7 +793,7 @@
                         },
                         {
                             "id": "title3",
-                            "key": "2d579d64-aabe-44fb-a954-c4a9e1725e01",
+                            "key": "296678b0-9842-432e-8dfc-938883aae6ee",
                             "type": "string",
                             "format": "text",
                             "label": "العنوان الثالث",
@@ -796,7 +809,7 @@
                         },
                         {
                             "id": "small_image",
-                            "key": "782629f9-2473-4f0f-919d-d0b4e1a623b9",
+                            "key": "01726cfc-19ae-4abb-b512-b0654de71189",
                             "type": "string",
                             "format": "image",
                             "label": "الصورة الصغيره",
@@ -809,7 +822,7 @@
                         },
                         {
                             "id": "big_image",
-                            "key": "43c9cca3-67e5-4fb1-a87d-154ff1513220",
+                            "key": "2ca61ef8-3a6a-465d-9a6c-0988aaaefa1d",
                             "type": "string",
                             "format": "image",
                             "label": "الصورة الكبيرة",
